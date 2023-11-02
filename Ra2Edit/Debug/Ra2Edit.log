@@ -1,0 +1,62 @@
+﻿生成启动时间为 2023/6/19 11:45:25。
+     1>项目“C:\Users\30446\Desktop\学习\汇编\工程\Ra2Edit\Ra2Edit\Ra2Edit.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Ra2Edit.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Ra2Edit.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Addnew.cpp AIT.cpp Army.cpp Cscripts.cpp "E:\I盘备份\红警AI制作\红警人机制作\软件设计方案\Ra2AIEdit\Ra2AIEdit\Basic_function.cpp" OtherFuction.cpp Ra2Edit.cpp Ra2EditDlg.cpp TaskForces.cpp
+         TaskForces.cpp
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\filetools.h(155): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\memtools.h(177): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\taskforces.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\taskforces.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+         Ra2EditDlg.cpp
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\filetools.h(155): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\memtools.h(177): warning C4018: “<”: 有符号/无符号不匹配
+         Ra2Edit.cpp
+         OtherFuction.cpp
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\otherfuction.cpp(1): warning C4627: “#include "OtherTools.h"”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\otherfuction.cpp(2): warning C4627: “#include "Ra2EditDlg.h"”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+         Basic_function.cpp
+         Cscripts.cpp
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\filetools.h(155): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\memtools.h(177): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\cscripts.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\cscripts.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+         Army.cpp
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\filetools.h(155): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\memtools.h(177): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\army.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\army.cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+         AIT.cpp
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\filetools.h(155): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\memtools.h(177): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\ait.cpp(103): warning C4018: “<”: 有符号/无符号不匹配
+         Addnew.cpp
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\filetools.h(155): warning C4018: “>”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\memtools.h(177): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\addnew.cpp(60): warning C4566: 由通用字符名称“\u00B4”表示的字符不能在当前代码页(936)中表示出来
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\addnew.cpp(60): warning C4566: 由通用字符名称“\uFF89”表示的字符不能在当前代码页(936)中表示出来
+         正在生成代码...
+     1>c:\users\30446\desktop\学习\汇编\工程\ra2edit\ra2edit\cscripts.cpp(153): warning C4715: “Cscripts::OnCreate”: 不是所有的控件路径都返回值
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Ra2Edit.res" Ra2Edit.rc 
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\30446\Desktop\学习\汇编\工程\Ra2Edit\Debug\Ra2Edit.exe" /INCREMENTAL /NOLOGO /LIBPATH:Msftedit.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\30446\Desktop\学习\汇编\工程\Ra2Edit\Debug\Ra2Edit.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\30446\Desktop\学习\汇编\工程\Ra2Edit\Debug\Ra2Edit.lib" /MACHINE:X86 Debug\Ra2Edit.res
+         Debug\Addnew.obj
+         Debug\AIT.obj
+         Debug\Army.obj
+         Debug\Cscripts.obj
+         Debug\Basic_function.obj
+         Debug\OtherFuction.obj
+         Debug\Ra2Edit.obj
+         Debug\Ra2EditDlg.obj
+         Debug\stdafx.obj
+         Debug\TaskForces.obj
+         Ra2Edit.vcxproj -> C:\Users\30446\Desktop\学习\汇编\工程\Ra2Edit\Debug\Ra2Edit.exe
+     1>已完成生成项目“C:\Users\30446\Desktop\学习\汇编\工程\Ra2Edit\Ra2Edit\Ra2Edit.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.37
